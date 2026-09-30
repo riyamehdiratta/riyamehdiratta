@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,30&height=220&section=header&text=Riya%20Mehdiratta&fontSize=44&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Deep%20Learning%20%26%20Generative%20AI&descAlignY=58&descAlign=50" width="100%" alt="Riya Mehdiratta Header Banner"/>
+<!-- HERO BANNER -->
+<a href="https://github.com/riyamehdiratta">
+  <img src="https://raw.githubusercontent.com/riyamehdiratta/riyamehdiratta/main/assets/banner.svg" width="100%" alt="Riya Mehdiratta Banner" />
+</a>
+
+<br/><br/>
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/riyamehdiratta">
@@ -254,32 +258,6 @@ My passion centers on engineering intelligent, robust systems — spanning **Gen
   </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/riyamehdiratta">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=riyamehdiratta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Riya's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/riyamehdiratta">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riyamehdiratta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <a href="https://github.com/riyamehdiratta">
-    <img src="https://streak-stats.demolab.com/?user=riyamehdiratta&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 
@@ -310,5 +288,5 @@ I am always keen to collaborate on cutting-edge **AI/ML research, Generative AI 
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/riyamehdiratta/riyamehdiratta/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
