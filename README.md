@@ -1,15 +1,10 @@
+<h1 align="center">Hi there! 👋 I'm Riya Mehdiratta</h1>
+
 <div align="center">
-
-<!-- HERO BANNER -->
-<a href="https://github.com/riyamehdiratta">
-  <img src="https://raw.githubusercontent.com/riyamehdiratta/riyamehdiratta/main/assets/banner.svg" width="100%" alt="Riya Mehdiratta Banner" />
-</a>
-
-<br/><br/>
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/riyamehdiratta">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+%7C+Generative+AI;Undergraduate+Researcher+%40+BVCOE+(CGPA+9.67);Author+in+ML-NIDS+Robustness+%26+Contrastive+Learning;WinterHack+\%2726+1st+Place+Winner;Creator+of+adbis-live-client+(2k%2B+Users);Building+Scalable+Deep+Learning+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+%7C+Generative+AI;Undergraduate+Researcher+%40+BVCOE;Author+in+ML-NIDS+Robustness+%26+Contrastive+Learning;WinterHack+\%2726+1st+Place+Winner;Creator+of+adbis-live-client+(2k%2B+Users);Building+Scalable+Deep+Learning+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -148,15 +143,19 @@ My passion centers on engineering intelligent, robust systems — spanning **Gen
       <p>🔗 <a href="https://github.com/riyamehdiratta/Drop_Secure_main"><b>GitHub Repo</b></a> | 🌐 <a href="https://drop-secure.onrender.com/index.html"><b>Live Application »</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/riyamehdiratta">SAR-to-EO Satellite Translation Pipeline</a></h3>
-      <p>End-to-end generative AI pipeline utilizing CycleGAN to translate Synthetic Aperture Radar (Sentinel-1 SAR) into Electro-Optical (Sentinel-2 EO) imagery, with rigorous image alignment and multispectral band validation.</p>
+      <h3>🛰️ <a href="https://colab.research.google.com/drive/13kxlWMhKzHAK3JLFPcwxFp_ZZArUswTs?usp=sharing">Cloud Masking in Multispectral Satellite Imagery</a></h3>
+      <p>Engineered deep learning cloud detection and segmentation pipelines for Sentinel-2 multispectral satellite imagery using UNet architectures and threshold-based methods. Preprocessed multispectral bands, evaluated with IoU and Dice metrics (Top 2 Rank in Challenge).</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/CycleGAN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Remote_Sensing-4CAF50?style=flat-square&logo=satellite&logoColor=white" />
-        <img src="https://img.shields.io/badge/DTU_AI_School-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/UNet_Segmentation-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sentinel--2-4CAF50?style=flat-square" />
+        <img src="https://img.shields.io/badge/Top_2_Rank-F59E0B?style=flat-square" />
       </p>
-      <p>🔗 <a href="https://github.com/riyamehdiratta"><b>View Research Work »</b></a></p>
+      <p>
+        <a href="https://colab.research.google.com/drive/13kxlWMhKzHAK3JLFPcwxFp_ZZArUswTs?usp=sharing" target="_blank">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -286,6 +285,3 @@ I am always keen to collaborate on cutting-edge **AI/ML research, Generative AI 
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/riyamehdiratta/riyamehdiratta/main/assets/footer.svg" width="100%" alt="Footer Banner" />
-</div>
