@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyamehdiratta&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-0078D4?style=for-the-badge&logo=mortarboard&logoColor=white" alt="B.Tech AI & ML" />
-  <img src="https://img.shields.io/badge/CGPA-9.67%2F10-10B981?style=for-the-badge&logo=target&logoColor=white" alt="CGPA 9.67" />
   <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="New Delhi, India" />
 </p>
 
@@ -28,13 +27,13 @@
 
 ### 👋 Welcome to My Digital Workshop!
 
-I am an **AI/ML Engineer and Undergraduate Researcher** in Computer Science & Engineering (Artificial Intelligence and Machine Learning) at **Bharati Vidyapeeth’s College of Engineering, New Delhi** (CGPA: **9.67/10**). 
+I am an **AI/ML Engineer and Undergraduate Researcher** in Computer Science & Engineering (Artificial Intelligence and Machine Learning) at **Bharati Vidyapeeth’s College of Engineering, New Delhi**
 
 My passion centers on engineering intelligent, robust systems — spanning **Generative AI & LLM architectures**, **adversarial robustness & contrastive tabular learning (SCARF)**, **computer vision / satellite remote sensing (CycleGAN, UNet)**, and **real-time high-throughput distributed systems**.
 
 ---
 
-<!-- ABOUT ME & INTERACTIVE ANIMATION (KBHUMIK27 STYLE) -->
+<!-- ABOUT ME & INTERACTIVE ANIMATION -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -56,7 +55,7 @@ My passion centers on engineering intelligent, robust systems — spanning **Gen
 
 ---
 
-<!-- MY FOCUS & RESEARCH (KBHUMIK27 STYLE) -->
+<!-- MY FOCUS & RESEARCH -->
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
